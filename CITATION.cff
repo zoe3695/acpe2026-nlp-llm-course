@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these course materials, please cite them as below."
+title: "Machine Learning in Real-World Drug Studies: Introduction to Prediction and Natural Language Processing (NLP) Models (ACPE 2026 Educational Session, Track C)"
+type: software
+# Instructors in the agreed author order. Add affiliations/ORCIDs as needed.
+authors:
+  - given-names: "Yanmin"
+    family-names: "Zhu"
+  - given-names: "Harvey"
+    family-names: "Koh"
+  - given-names: "Crystal"
+    family-names: "Leung"
+  - given-names: "Ting"
+    family-names: "Xia"
+  - given-names: "Richeek"
+    family-names: "Pradhan"
+repository-code: "https://github.com/zoe3695/acpe2026-nlp-llm-course"
+url: "https://zoe3695.github.io/acpe2026-nlp-llm-course/"
+keywords:
+  - pharmacoepidemiology
+  - real-world data
+  - machine learning
+  - natural language processing
+  - large language models
+  - teaching materials

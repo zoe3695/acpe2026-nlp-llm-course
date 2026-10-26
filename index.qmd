@@ -1,0 +1,31 @@
+---
+title: "Machine Learning in Real-World Drug Studies"
+subtitle: "ACPE 2026 Educational Session, Track C"
+---
+
+**Friday 30 October 2026** · Part of the [Asian Conference on
+Pharmacoepidemiology (ACPE) 2026 educational
+sessions](https://www.asianpharmacoepi.org/educational-sessions/).
+
+This track introduces foundational concepts, principles, and applications of
+natural language processing (NLP) and large language models (LLMs) in
+real-world pharmacoepidemiologic studies. Participants will gain practical
+exposure to basic coding workflows and machine learning–driven disease
+phenotyping strategies, while learning to critically evaluate epidemiologic
+biases in NLP/LLM-enhanced analyses.
+
+## Course directors
+
+- Richeek Pradhan
+- Yanmin Zhu
+
+## Invited Course Instructors
+
+- Harvey Koh
+- Crystal Leung
+- Ting Xia
+
+## Course materials
+
+Slides, lab notebooks, and pre-course materials will be posted here once
+they are ready to share.

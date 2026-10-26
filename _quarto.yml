@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+  # Add pages here as materials are published, e.g. slides/*.qmd, pre-course/*.md
+  render:
+    - index.qmd
+
+website:
+  title: "ACPE 2026 · Track C"
+  repo-url: https://github.com/zoe3695/acpe2026-nlp-llm-course
+  repo-actions: [issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - icon: github
+        href: https://github.com/zoe3695/acpe2026-nlp-llm-course
+  page-footer:
+    center: "© 2026 Yanmin Zhu, Harvey Koh, Crystal Leung, Ting Xia, and Richeek Pradhan. All rights reserved."
+
+format:
+  html:
+    theme: cosmo
+    toc: true

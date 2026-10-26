@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Quarto build output
+/.quarto/
+/_site/
+*_files/
+
+# Secrets (never commit API keys)
+.env
+
+# macOS
+.DS_Store
