@@ -1,3 +1,4 @@
 # labs
 
-Coming soon: materials will be added here once they are ready to share.
+part 1: nlp coding laboratory 
+part 2: llm hands-on lab
