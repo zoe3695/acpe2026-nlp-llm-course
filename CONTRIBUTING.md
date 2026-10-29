@@ -28,8 +28,7 @@ your work is attributed to you.
 ## Data and privacy
 
 Only commit **synthetic or publicly available, de-identified** example text and
-data. Never commit real patient records, clinical notes, or safety reports,
-and never commit API keys or tokens.
+data. 
 
 ## Co-authored work
 
