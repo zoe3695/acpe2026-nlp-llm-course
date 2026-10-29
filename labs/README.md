@@ -5,6 +5,8 @@
 - [Student notebook](ACPE26_NLP%20Workshop_student.ipynb)
 - [Practice dataset](acpe26_nlp_dataset.xlsx)
 
+**Instructor:** Crystal Leung 
+
 ## Part 2: LLM prompting laboratory
 
 [Open the student lab in Google Colab](https://colab.research.google.com/drive/1dyXt0pZRqkVmmbshcT4ECdzgV1lTdctf)
