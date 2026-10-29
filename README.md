@@ -23,7 +23,8 @@ sessions](https://www.asianpharmacoepi.org/educational-sessions/).
 
 ## Course materials
 
-- [Lab 1: NLP student notebook](labs/ACPE26_NLP%20Workshop_student.ipynb)
+- [Lab 1: NLP student notebook — open in Colab](https://colab.research.google.com/github/zoe3695/acpe2026-nlp-llm-course/blob/main/labs/ACPE26_NLP%20Workshop_student.ipynb)
+- [Lab 1: Opioid case classification notebook and worked results — open in Colab](https://colab.research.google.com/drive/1e1ZkWKaAAh4qKD20vB7aZ8bebeQJaatH?usp=drive_link)
 - [Lab 2: LLM prompting lab — open in Colab](https://colab.research.google.com/drive/1dyXt0pZRqkVmmbshcT4ECdzgV1lTdctf)
 - [Lab instructions](labs/README.md) · [Pre-course materials](pre-course/README.md)
 
