@@ -23,8 +23,9 @@ sessions](https://www.asianpharmacoepi.org/educational-sessions/).
 
 ## Course materials
 
-> **Coming soon.** Slides, lab notebooks, and pre-course materials will be
-> added here once they are ready to share.
+- [Lab 1: NLP student notebook](labs/ACPE26_NLP%20Workshop_student.ipynb)
+- [Lab 2: LLM prompting lab — open in Colab](https://colab.research.google.com/drive/1dyXt0pZRqkVmmbshcT4ECdzgV1lTdctf)
+- [Lab instructions](labs/README.md) · [Pre-course materials](pre-course/README.md)
 
 | Folder        | Contents |
 |---------------|----------|
