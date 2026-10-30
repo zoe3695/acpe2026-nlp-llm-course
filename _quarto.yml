@@ -4,6 +4,8 @@ project:
   # Add pages here as materials are published, e.g. slides/*.qmd, pre-course/*.md
   render:
     - index.qmd
+  resources:
+    - pre-course/Track-C-course-structure.pdf
 
 website:
   title: "ACPE 2026 · Track C"

@@ -1,5 +1,8 @@
 # pre-course material
 
+**Course schedule**
+[Track C course structure (PDF)](Track-C-course-structure.pdf)
+
 **Python basics in NLP**
 <a href="https://medium.com/@crystalleungg/getting-started-on-nlp-python-basics-f23195c00903">
   <img width="999" height="114" alt="Getting started on NLP: Python basics" src="https://github.com/user-attachments/assets/500d947f-7a48-421d-8002-533d7c7cabde" />
