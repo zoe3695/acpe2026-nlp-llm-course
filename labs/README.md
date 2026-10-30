@@ -5,7 +5,7 @@
 - [Student notebook](ACPE26_NLP%20Workshop_student.ipynb) · [Open in Colab](https://colab.research.google.com/github/zoe3695/acpe2026-nlp-llm-course/blob/main/labs/ACPE26_NLP%20Workshop_student.ipynb)
 - [Practice dataset](acpe26_nlp_dataset.xlsx)
 
-Open either notebook in Colab and use **File → Save a copy in Drive** to work on your own copy. The classification notebook includes the worked evaluation results.
+Open the notebook in Colab and use **File → Save a copy in Drive** to work on your own copy.
 
 **Instructor:** Crystal Leung 
 
