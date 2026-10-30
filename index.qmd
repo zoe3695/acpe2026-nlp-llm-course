@@ -28,5 +28,5 @@ biases in NLP/LLM-enhanced analyses.
 ## Course materials
 
 - [Lab 1: NLP student notebook](labs/ACPE26_NLP%20Workshop_student.ipynb)
-- [Lab 2: LLM prompting lab — open in Colab](https://colab.research.google.com/drive/1dyXt0pZRqkVmmbshcT4ECdzgV1lTdctf)
+- [Lab 2: LLM prompting lab — open in Colab](https://colab.research.google.com/drive/1dyXt0pZRqkVmmbshcT4ECdzgV1lTdctf) · [Notebook file](labs/ED_Group_Challenge_Student.ipynb)
 - [Lab instructions](labs/README.md) · [Pre-course materials](pre-course/README.md)
