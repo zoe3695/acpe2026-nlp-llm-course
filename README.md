@@ -24,10 +24,11 @@ sessions](https://www.asianpharmacoepi.org/educational-sessions/).
 ## Course materials
 
 - [Course schedule (PDF)](pre-course/Track-C-course-structure.pdf)
-- [Slides: Practical LLM Applications in Pharmacoepidemiology and Pharmacovigilance (PDF)](slides/Practical-LLM-Applications-Zhu-2026.pdf)
+- [Pre-course materials](pre-course/README.md)
+- [Lecture slides](slides/README.md)
+- [Lab instructions](labs/README.md)
 - [Lab 1: NLP student notebook — open in Colab](https://colab.research.google.com/github/zoe3695/acpe2026-nlp-llm-course/blob/main/labs/ACPE26_NLP%20Workshop_student.ipynb) · [Notebook file](labs/ACPE26_NLP%20Workshop_student.ipynb)
 - [Lab 2: LLM prompting lab — open in Colab](https://colab.research.google.com/drive/1dyXt0pZRqkVmmbshcT4ECdzgV1lTdctf) · [Notebook file](labs/ED_Group_Challenge_Student.ipynb)
-- [Lab instructions](labs/README.md) · [Pre-course materials](pre-course/README.md)
 
 | Folder        | Contents |
 |---------------|----------|
