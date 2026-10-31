@@ -6,6 +6,7 @@ project:
     - index.qmd
   resources:
     - pre-course/Track-C-course-structure.pdf
+    - slides/Practical-LLM-Applications-Zhu-2026.pdf
 
 website:
   title: "ACPE 2026 · Track C"
