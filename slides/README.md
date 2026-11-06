@@ -8,7 +8,7 @@ Talks are listed in the order of the [course schedule](../pre-course/Track-C-cou
 
 2. **The Roadmap from Conventional NLP to Large Language Models**  
    Harvey Koh  
-   *Slides coming soon*
+   [Slides (PDF)](NLP-to-LLMs-ACPE.pdf)
 
 3. **Foundations of NLP for Real-World Data: Tasks, Models, and Research Applications**  
    Ting Xia  
